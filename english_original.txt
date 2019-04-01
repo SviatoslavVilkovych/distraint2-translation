@@ -1,0 +1,1980 @@
+[previously]
+1=My name is Price.
+2=To gain the partnership with the company, I had to evict people from their homes.
+3=Such was the nature of my work.
+4=But it soon became clear that the job wasn't right for me.
+5=See, there was this sweet, elderly widow called Mrs. Goodwin...
+6=... and I took over her home.
+7=Something snapped in me.
+8=She never blamed me for anything...
+9=Yet I could never forgive myself.
+9_1=Especially after she passed away.
+10=In the end, I lost the will to live.
+12=I put a shotgun barrel in my mouth and decided to end it once and for all...
+[places]
+1=SOMEWHERE BEYOND - PART ONE
+1_2=WHERE IT ALL BEGAN
+2=THE RED GAZE - PART ONE
+3=WARMTH & COLDNESS
+3_1=FEAR'S CREATURE - PART TWO
+4=FEAR'S CREATURE - PART ONE
+mo1=FEAR'S CREATURE - PART THREE
+mo2=FEAR'S CREATURE - PART FOUR
+mo3=FEAR'S CREATURE - PART FIVE
+4_1=NOT-SO-POETIC BATHROOM
+5=THE SOURCE OF FLAME
+6=SELF-DECEPTION
+
+7=DELUSION - PART ONE
+de=DELUSION - PART TWO
+8=HOPE'S DOMAIN - PART ONE
+8_1=HOPE'S DOMAIN - PART TWO
+8_2=HOPE'S DOMAIN - PART THREE
+
+9=THE STRUGGLE
+10=THE RED GAZE - PART TWO
+11=THE OLD COUPLE
+12=REMEMBER THE NIGHTMARE
+12_1=AFTER THE NIGHTMARE
+13=AMONG STRANGERS
+13_1=THE GAME
+
+14=BEYOND THE DOOR
+15=THE RED GAZE - PART THREE
+16=EDITING THE PAST
+17=AGONY
+
+va1=THE LAST I SAW HER
+va2=HER WHEELCHAIR
+va3=THE RED GAZE - PART FIVE
+va4=THE MACHINE THAT GOES PING
+va5=THE BROKEN FLOWER
+va6=NUMBERS BEFORE ME
+va7=HOLD MY HAND
+va8=CHALLENGE MY CREATION
+va9=BEYOND THE BROKEN GLASS
+va10=FORGIVENESS
+
+fo1=SOMEWHERE BEYOND - PART TWO
+fo2=THE OLD HOUSE
+fo3=A PLACE ON THE STONE
+fo4=THE GRANDFATHER CLOCK
+fo5=MY OLDEST FRIEND
+fo6=HIDDEN IN THE DARKNESS
+fo7=WITHSTAND
+fo8=HE'S CALLING FOR ME
+fo9=FOUR WAYS
+fo10=WHAT HAPPENED TO MY FRIEND?
+fo11=THE RED GAZE - PART FOUR
+fo12=I NEED COMFORT
+fo13=LOSS
+fo14=RIBBON FROM MEMORY
+
+reality=REALITY
+gmover=GAME OVER
+
+CL1=CLIFFORD - PART ONE
+CL2=CLIFFORD - PART TWO
+CL3=CLIFFORD - PART THREE
+
+m1=CHILDHOOD MEMORY - NIGHTMARE
+m2=CHILDHOOD MEMORY - BIRTHDAY
+m3=CHILDHOOD MEMORY - MOVING HOUSE
+m4=CHILDHOOD MEMORY - THE END OF CHILDHOOD
+
+e1=RUN
+e2=THE SOURCE OF IT ALL
+[names]
+1=Reason
+2=Greed
+
+3=Hope
+3.2=Hope_01
+3.3=Hope_02
+3.4=Hope_03
+3.5=Hope_04
+3.6=Hope_05
+
+4=Love
+5=Fear
+7=Comfort
+8=Agony
+9=Forgiveness
+10=Ambition
+11=Inspiration
+12=Loss
+13=Trauma
+14=Courage
+
+code=#649
+som=Something changed.
+mc=McDade, Bruton & Moore
+mrs=Mrs. Goodwin
+som2=Something else
+som3=Something
+
+re=review
+fa=family
+fr=friends
+m1=www.jessemakkonen.com
+m2=@jesse_makkonen
+m3=@jessemakkonengames
+
+[opening]
+un1=There, I unlocked the door.
+
+say1=What is this...?
+say2=Where am I...?
+say4=I...
+say5=I shouldn't exist.
+say6=I shouldn't *be* anymore.
+say7=.........
+say8=HEY, CAN ANYONE HEAR ME?!
+say9=I don't understand.
+
+g1=Excuse me.
+g2=Where am I, and who are you?
+	g3=I am Reason.
+	g4=Unfortunately, I don't know how else better to explain what I am.
+	g5=But I'll be your guide, if only you let me.
+g6=My guide?
+	g7=Please, listen to what I must tell you.
+g8=I don't understand...
+	g9=I'm a part of you.
+	g10=We are connected.
+g11=......... Reason?
+	g12=Yes, I understand how confusing all of this must sound.
+g13=What is this place?
+	g14=There is no easy answer for that question.
+	g15=I can't explain it.
+g16=I don't get it. I was ready to pull the trigger...
+	g18=Yes, there's no easy way to explain this.
+	g19=But you ended up at this place for a reason.
+g20=I just wanted to get away.
+g21=I couldn't live with myself anymore.
+g22=Why is this happening to me!?
+	g22_1=Yes...
+	g23=See, there are many things you've yet to experience.
+	g24=You need to learn how to forgive yourself.
+g25=I'm not sure I can...
+	g26=It will be difficult, given your current state.
+	g27=But you can put your faith in me.
+	g28=See, you must find yourself again...
+	g29=You must find Hope. It's the only way for you to heal.
+g30=Everything just feels so overwhelming.
+	g31=Please - find Hope, and everything will change.
+g32=I... I suppose I can try.
+	g33=That's all I can ask of you.
+	g34=We will meet again soon.
+
+do1=Excuse me!
+do2=Is anyone home?
+
+do3=Hello...?
+
+do4=Could you please open the door?
+do5=HEY!
+
+do6=What the hell?!
+
+do7=That was me some years ago...
+
+do8=Ehh...
+do9=Wasn't there a doorway here just a second ago?
+
+el1=Nothing happens.
+
+so1=Huh? Is there something behind the couch?
+so2=I wonder if I can move the couch?
+so3=Ehh... What on earth is that thing?
+so4=I need to take a closer look.
+
+so5=Is it some weird game?
+
+so6=I think there's a piece missing.
+
+so7=There you go!
+
+so8=Done, I think.
+so9=What next?
+
+ta1=I've always enjoyed being around fire.
+ta2=Huh, what's that?
+ta3=There's something in the fireplace that doesn't belong.
+ta4=Maybe I could poke it with something?
+
+ta5=There was something inside the ice cube.
+
+ta6=I'm sure it'll thaw in a moment.
+
+ta7=A key, but where does it fit?
+
+ta8=I'm sure the ice cube has already melted.
+
+ta9=The fire went out, but why?
+ta10=Nothing makes any sense!
+ta11=What's the meaning of all this...?
+
+su1=Whoa, that's one rusty shower.
+su2=That pipe might come off pretty easy.
+
+pe1=It's an old and dirty washing machine.
+pe2=It's missing a washer dial.
+
+pe3=What the hell is this?
+pe4=Looks like a washer dial?
+
+pe5=I wonder if it fits here?
+
+pe6=There you go!
+pe7=I'll just wait for it to finish.
+
+pe8=Let's see.
+pe9=... an ice cube?!
+pe10=This feels way too familiar.
+pe11=There must be something inside the ice cube.
+
+mo1=Wh... what the hell was that sound!?
+mo2=I better hide quickly!
+
+mo3=What the hell was that thing?!
+mo4=What's the meaning of all this?
+mo5=.........
+
+	gr1=BOO!
+	gr2=Did you try to push me away, mmm?
+gr3=I'm sorry, I don't think I know you.
+	gr4=Mmm?
+	gr5=It's me! Your old pal, Greed!
+	gr6=And you don't know me you say, mmm?
+gr7=... Greed.
+gr8=What do you want from me?
+	gr9=Mmm? I want you not to forget me!
+	gr10=You will need me and my ruthlessness!
+	gr11=How could you ever succeed without me, mmm?
+gr12=Listen, I tried to change for a reason.
+gr13=Maybe I wouldn't have got far without you, but...
+gr14=... Maybe I would've found a better life.
+	gr15=Mmm? A better life?
+	gr16=YOU FOOL!
+	gr17=You got what you deserved!
+	gr18=You should've stayed with me; you would've got IT ALL!
+	gr19=But perhaps it's not too late.
+gr20=Yeah... It's all so confusing.
+	gr21=Look, together we can...
+	gr22=WHAT NOW!?
+		gr23=Greed, are you trying to meddle again?
+	gr24=HAH! Reason, you're not wanted here!
+		gr25=SILENCE!
+		gr26=My apologies for interrupting like this.
+		gr27=Listen to me.
+		gr28=It's true that he helped you to achieve your goals.
+		gr29=But you were young. You're still young.
+		gr30=Did you know then what you wanted?
+	gr31=Sure he did! You did, I did, we ALL did!
+	gr32=He needs me, and you, Reason, can't deny that from him!
+	gr33=Only I am driving him to succeed. Who else would do it, if not for me!?
+		gr34=Yes, you're not entirely wrong.
+		gr35=But maybe all he needs is a push in the right direction - a new lease on life.
+	gr36=Mmm?
+		gr37=You have to trust me.
+		gr38=Go and wake up Hope, he's the only one that can help you.
+	gr38_1=WAIT! Don't listen to his nonsense!
+gr39=What the hell?
+gr40=Hope... Greed... Reason...?
+
+wa1=I have short legs - no matter what, I'll never reach it!
+wa2=What on earth is this?
+wa3=I've a feeling I'll be needing this.
+
+ho1=I BEG OF YOU, STOP!
+ho2=D... DON'T COME ANY CL... CLOSER!
+ho3=STAY AWAY FROM ME, PLEASE!
+
+uy1=Why am I here?
+uy2=Am I... dead?
+uy3=Or am I... alive?
+
+ro1=Oh man.
+ro2=Where am I even going?
+
+em1=Huh... Did something just move in the shadows?
+
+em2=HEY! Would you open the door?
+em3=There's some weird shit going on!
+
+em4=Ehh... Open up, please?
+[tutorials]
+tut1=Press
+tut2=to progress the dialogue
+
+tut3=Press
+tut4=or
+tut5=to move
+
+tut6=to switch the piece
+tut7=to turn the piece
+
+tut8=to turn the washer dial
+
+tut9=To use an item, select it by pressing
+tut10=Once an item is selected, you can attempt to use it by pressing
+tut11=To put the item away, press
+tut12=You can also view your items by pressing and holding
+
+tut13_0=Press and hold
+tut13=to run
+
+tut14=to interact with objects, surroundings or characters
+
+tut15=DISTRAINT 2 doesn't autosave your progress
+tut16=To save progress, visit these:
+
+tut17=to open your eyes
+
+tut18=to fish
+tut19=Pay attention to your rod. Once a fish starts biting, quickly press
+tut20=To stop fishing, press
+
+tut21=to exit puzzle.
+
+[additional]
+lo1=No can do, the door's locked.
+lo2=I'm going to need a key if I'm to access that room.
+lo3=It's locked from the other side.
+lo4=I need to unlock it from the other side.
+
+sv1=I saved the game. Whatever that means!
+
+ng=NEW GAME
+co=CONTINUE
+op=OPTIONS
+qu=QUIT
+
+no_save=No save data detected, start a new game?
+save=This will overwrite any potential save data, continue anyway?
+y=Yes
+n=No
+
+pa=Press any key!
+au=Key already in use!
+cu=Key not recognized!
+
+a1=Full
+a2=Medium
+a3=Low
+a4=Off
+
+sc1=Windowed Fullscreen
+sc2=Windowed
+
+opt1=OPTIONS
+opt2=VIDEO
+opt3=AUDIO
+opt4=CONTROLS
+
+x1=Resume
+x2=Quit
+x3=Restore default settings
+
+x4=Screen mode:
+x5=Film grain:
+x6=Brightness:
+
+x7=Master volume:
+x8=Dialogue audio:
+x9=Subtitle language:
+
+x10=Up:
+x11=Right:
+x12=Down:
+x13=Left:
+x14=Action:
+x15=Run:
+x16=Inventory:
+
+ed1=CONTINUE
+ed2=QUIT
+
+pro1=PROLOGUE
+pro2=-Reason-
+
+cha1=CHAPTER ONE
+cha12=-Agony-
+
+cha2=CHAPTER TWO
+cha22=-Loss-
+
+cha3=CHAPTER THREE
+cha32=-Forgiveness-
+
+epi1=EPILOGUE
+epi2=-Hope-
+[items]
+no=NO ITEM
+ta=TALK
+us=USE
+hi=HIDE
+ex=EXAMINE
+sa=SAVE
+pi=PICK UP
+do=ENTER
+kn=KNOCK
+pr=PRESS
+ca=CALL ELEVATOR
+ea=EAVESDROP
+re=READ
+
+0=ITEM FOUND!
+1=RUSTY PIPE
+2=WASHER DIAL
+3=ICE CUBE
+4=KEY
+5=RING
+6=PLANK
+7=HAMMER AND NAILS
+8=PUZZLE
+9=CRANK
+10=SYRINGE
+11=BULB
+12=PENDULUM
+13=FUSE
+14=MR. SNOUTTY
+15=PUZZLE PIECE
+16=MR. ARMSTRONG
+17=FILM REEL
+18=BOTTLE BOTTOM
+19=LETTER
+[chapter1]
+say1=.........
+say2=I'm so fucking confused.
+say3=That thing got me!
+say4=Hope...? He has abandoned me.
+
+no1=These are... contracts?
+no2=Ah...
+no3=Contracts signed by my customers and me.
+no4=Mrs. Goodwin, Mr. Tailor...
+no5=I didn't understand what was at stake when I asked them to sign.
+no6=If only...
+
+	my1=Are you scared, boy?
+	my2=Haha-ha-ha!
+my3=Wh... who's that!?
+	
+	my4=Still afraid of the dark?
+	my5=Look at you! A grown-up man afraid of his own shadow!
+	my6=Hahahaha!
+my7=Just... sh... show yourself!
+
+ph1=Hello...?
+	ph2=How does it feel, the obscurity?
+	ph3=How does it feel to lose Hope?
+ph4=Who's this?!
+	ph5=You reap what you sow.
+	ph6=In answer to your question, I am Agony.
+ph7=Just leave me alone. I've had enough of you!
+	ph8=I don't just vanish!
+	ph9=I might seem malicious, but no one can survive without me.
+ph10=I endured you for so long! I couldn't take it anymore...
+ph11=Please, just leave me be. I don't need you!
+	ph12=You don't get it, do you?
+	ph13=You won't learn without me.
+	ph14=My purpose is to make you suffer.	
+	ph15=And, in doing so, I keep you going.
+ph16=Fuck you! You can't hurt me anymore!
+	ph17=Soon my friend...
+	
+pa1=Mom... dad...?
+pa2=Why are you here?
+pa3=What is this?
+	pa4=We are a part of your memory. We are your parents.
+		pa5=We aren't Reason, Hope, Love, or anyone else...
+	pa6=But we act as their instruments, going in places where they cannot.
+	pa7=You're in a dark place, son.
+		pa8=How do you feel, sweetie?
+pa9=I... I don't know.
+pa10=I'm not sure I can feel anything at all.
+	pa11=And that's exactly why we are here, son.
+		pa12=Your father is right.
+		pa13=We're here to remind you not everything is lost...
+		pa14=That there's still Hope. Still something to fight for.
+	pa15=We understand it must be difficult to carry on, son.
+pa16=.........
+pa17=I miss you guys so much...
+pa18=Are you okay?
+		pa19=Don't worry about us, sweetie.
+		pa20=We will eventually meet again, but not yet.
+	pa21=Let's just get this over with so we can get away from here, dear.
+		pa22=You're right, honey. The coffee here is terrible!
+	pa23=Son, we were sent by Love.
+	pa24=This dark place... you must escape from it.
+		pa25=Otherwise, it will slowly consume you.
+pa26=I don't like this place either.
+pa27=What do I do?
+	pa28=Close your eyes, son.
+		pa29=Take a deep breath and focus, sweetie.
+	pa30=Imagine light.
+	
+x1=.........
+x2=Okay.
+x3=It's so calm and quiet here.
+x4=But where am I now?
+
+saw1=It's a sawbench.
+saw2=There's also some wood there, for fixing the fence perhaps?
+
+saw3=Fix the fence she said.
+saw4=Okay, I need to saw the plank a little shorter.
+saw5=This should do.
+
+ai1=This fence's missing a piece.
+ai2=I'm almost tempted to fix it.
+
+ai3=I'm fixing the fence!
+ai4=Okay, I'm going to need a hammer and some nails.
+
+ai5=It won't hold unless I nail it.
+
+ai6=That should do it.
+ai7=I never thought I'd enjoy stuff like this.
+
+ai8=I don't mind fixing the fence.
+ai9=I'm going to need some wood and tools, though!
+
+ai10=I'm not that handy, but it should hold.
+
+ai11=There's nothing to nail!
+
+pe1=Ah, a potato patch.
+pe2=I love the smell.
+
+pe3=This potato patch isn't ready for harvesting yet.
+
+ho1=What a charming little house.
+ho2=I wonder who lives here?
+	ho3=Honey?
+ho5=.........
+	ho6=Did you fix the fence yet?
+ho7=.........
+ho8=Sorry! No, not yet!
+	ho9=Take your time honey. I'll bake an apple pie in the meantime!
+ho10=Uh, okay!
+ 
+ho11=Honey...?
+ho12=I didn't recognize her voice.
+ho13=She sounded around my age, though.
+ho14=I gotta admit, that felt pretty nice...
+
+	ho15=Did you fix the fence yet, honey?
+	
+ho16=The fence is good as new!
+ho17=.........
+ho18=Uh... hello?
+ho19=May I come in?
+ho20=.........
+ho21=No reply.
+
+ho22=It's getting late. Can I come in, please?
+ho23=.........
+ho24=Nothing.
+
+sh1=There must be a hammer here.
+sh2=Let's take a look...
+sh3=.................................
+sh4=Got it!
+
+add1=Hey?
+add2=Okay... I'm coming in!
+
+sh5=Well, this is cozy...
+sh6=It's so quiet and calm here.
+sh7=I... kinda like this.
+
+sh8=This must be a tool shed.
+sh9=I shouldn't poke around.
+
+st1=Oo-kay.
+st2=This is different.
+
+	re1=Are you enjoying yourself?
+re2=Yeah, I think I am.
+re3=I feel like a stuck record, but what exactly is this place?
+	re4=I'm so pleased to see a little smile on your face.
+	re5=You're in the domain of Hope.
+	re6=This place is an illusion, but it could reflect reality.
+re7=An illusion...?
+re8=Yeah, I figured I wouldn't be able to stay here.
+	re9=Now, now... don't be like that.
+	re10=I told you it could reflect reality, didn't I?
+re11=What's that even supposed to mean?
+	re12=Just look around you.
+	re13=Why couldn't this be your future?
+re14=Why would I deserve anything like this?
+re15=All those lives I ruined...
+	re16=You're way too harsh on yourself.
+	re17=You were just doing your job.
+	re18=All you needed was a push in the right direction.
+	re19=But you let it get under your skin, pervading your very being.
+re20=Thank you.
+re21=I did try, you know?
+re22=But it's not an easy task. I let myself down.
+	re23=Well, this is your journey to recovery.
+	re24=It's not supposed to be easy.
+re25=.........
+	re26=Here's a good chance to look around a little bit more.
+	re27=Recharge your batteries under this energizing light.
+	re28=You'll need it when you venture into the dark recesses of your mind.
+re29=Thank you again, Reason. I'll do my best.
+
+	hon1=Honey, it's getting late!
+	hon2=Come and eat something!
+hon3=I suppose I could...
+hon4=Yeah, why not!
+
+	vi1=You're probably looking for Mr. Blackwell.
+	vi2=Look no further as here I am!
+vi3=Why would I be looking for you?
+	vi4=Isn't it obvious?
+	vi5=You've come to see me live.
+	vi6=Evidently my reputation precedes me.
+vi7=Right... so what do you do?
+	vi8=Still playing ignorant?
+	vi9=Fine, I'll play along!
+	vi10=I'm a man of many accomplishments.
+	vi11=I'm brave, fearless, handsome, and quite popular among the ladies.
+	vi12=However I, George Blackwell, have mastered the art of cards.
+	vi13=I'm invincible!
+vi14=Good for you!
+vi15=Well, I need to get going...
+	vi16=Wait, wait! There's more to it.
+	vi17=I could go on and on about my deeds.
+	vi18=But you're new here, am I correct?
+vi19=Well noticed.
+	vi20=In that case, please allow me to explain something.
+	vi21=We're... kinda... uh...
+	vi22=Well, you could say we're.... stuck here.
+vi23=You don't say?
+	vi24=See that gorilla over there?
+	vi25=Once a day only one of us can leave.
+	vi26=But only for a few hours!
+vi27=Keep talking.
+	vi28=We had this agreement with the other people...
+	vi29=Once a day we play cards, and the winner gets the chance to leave.
+	vi30=A chance to solve the puzzle beyond the door.
+vi31=Okay, that's not weird at all.
+	vi32=LUCKILY! I'm the master of cards.
+	vi33=I've never lost, and that's why it's me walking out that door at the end of each day.
+vi34=I get it, you're good!
+vi35=Do you think I could play too?
+	vi36=You? Against me?
+	vi37=.........
+	vi38=HAHAHAHA!
+	vi39=Sure, kid!
+	vi40=That'd be hilarious.
+vi41=I look forward to it.
+
+vo1=Did you manage to solve the puzzle?
+vo2=It was way too difficult for me.
+	vo3=Hah!
+	vo4=I only had to look at it once, and I solved it.
+	vo5=So very easy.
+	vo6=But then again, these things are easy for me.
+	vo7=Here, take this as proof so you can be amazed.
+	
+	ru1=WHERE do you think you're going?
+	ru2=That'd be my room, you know?
+ru3=Uh, sorry.
+
+	ru4=I see you're back to hear about my brave deeds.
+	ru5=I once fought with a gigantic beast...
+ru6=Uh, maybe later.
+
+ru7=You look like a smart man.
+	ru8=Why, thank you!
+	ru9=Did you need something?
+ru10=I'm struggling to solve this puzzle.
+ru11=Maybe you could help?
+	ru12=You've come to the right man.
+	ru13=I, George Blackwell, am the master of puzzles.
+	ru14=Hand it over, please.
+ru15=Here you go.
+	ru16=Now let me focus, this shouldn't take long.
+ru17=Alright.
+
+ru18=How's it going?
+	ru19=.........
+ru20=Whoa, he's focused!
+
+	ru21=I just need a pen, so I can write down the solution...
+	ru22=That kid will be stunned to see how amazing I am!
+	ru23=Maybe he'll even reward me...?
+	ru24=Oooooh, exciting!
+	ru25=Okay, Georgie boyyy!
+	ru26=Focus!
+	ru27=The combination...
+	ru28=Six...
+	ru29=Six... Four...
+	ru30=Six... Four... Nine.
+	ru31=Open sesame!
+	ru32=All set, now that I have my pen.
+	
+	ru33=Mm...
+	ru34=Maybe I should suit up to REALLY impress that kid.
+	ru35=Yes... I believe that would make him super impressed.
+
+	ru36=But then again, would that be too much...?
+	ru37=Yes, yes... I gotta play it cool.
+	ru38=Time to IMPRESS!
+	
+ru39=Phew, that was close!
+ru40=Not awkward at all...
+	
+saf1=It's a safe made of thick steel.
+saf2=Is he hiding something?
+saf3=I need the combination to find out.
+
+saf4=What the hell is this thing?
+saf5=.........
+saf6=OH, I understand!
+saf7=He's cheating on cards!
+saf8=This gadget pulls an ace from his sleeve.
+saf9=No wonder he always wins.
+saf10=I think I might just sabotage him.
+
+saf11=That should do it, he won't notice a thing before it's too late.
+
+saf12=The deed is done, and today his luck will change.
+	
+	ea1=There's something fishy about him...
+		ea2=I know!
+		ea3=Against all the odds, he keeps winning!
+	ea4=Sooner or later his luck will turn.
+		ea5=Still, it was foolish to agree on his terms.
+	ea6=Today it's our turn to shine!
+		ea7=I hope so, dear.
+		
+	ea8=We will win today, honey.
+	ea9=I'm sure of it!
+		ea10=I hope... we've never won before.
+	ea11=It's only a matter of time.
+	
+	ea12=How on earth does he keep winning time after time?
+	ea13=I've got a funny feeling about this!
+		ea14=Calm down, honey.
+		ea15=I agree, though. There's something going on.
+			
+po1=Can I pass, please?
+	po2=GRRR!
+po3=Maybe later.
+
+uk1=Hey, what are you doing?
+	uk2=.........
+uk3=That's rude, you know?
+	uk4=.........
+uk5=HEY!
+	uk6=STOP shouting and leave me alone!
+uk6_1=HEY!
+	uk6_2=QUIET!
+uk6_3=HEY!
+	uk6_4=Why... would... you....!?
+uk7=I'm sorry, do you need help with that puzzle?
+	uk8=NO! I GOT THIS!
+		uk9=STOP shouting at our guest!
+		uk10=Can't you let him help you?
+		uk11=You've spent several days going over that thing already!
+	uk11_1=QUIET WOMAN!
+		uk11_2=Mister! You don't SHOUT at me like that!
+		uk11_3=You better give him that puzzle or ELSE!
+	uk12=I'm sorry, my love...
+	uk13=Fine!
+	uk14=There's no way you can solve that, though.
+uk15=I'll still give it a try, thank you.
+	uk16=Whatever.
+	
+ok1=What's up, dude?
+ok2=Go away.
+
+ok3=I solved the puzzle!
+ok4=I won't believe it until I see it.
+
+ik1=Hey, I managed to solve the puzzle.
+ik2=I thought maybe you'd like to have it back?
+	ik3=You did, huh?
+	ik4=I'm not sure...
+		ik5=Just swallow your pride for once in your life, you old fool!
+	ik6=Yes, yes, my love.
+	ik7=Okay then.
+	ik8=Let's see it.
+
+	ik9=Fourth...
+	ik10=... from the left.
+	ik11=Circle and...
+	ik12=... triangle.
+	ik13=.............
+
+		ik14=It's time, my dear!
+ik15=What time?
+		ik16=To play cards.
+	ik17=You can join us, I guess.
+		ik18=Of course he can join us, he helped you!
+	
+op1=Great, back to the shitty world.
+
+		pok1=Alright, the rules are simple.
+		pok2=The winner gets the right to leave.
+		pok3=Let's play cards!
+	pok4=Hey, how are you all doing?
+	pok5=I wonder if Mr. Blackwell will win again?
+pok6=I wouldn't count on it.
+pok7=You're in for a surprise.
+		pok8=Huh?
+		pok9=Anyway, I feel lucky today!
+			pok10=Hah!
+			pok11=This game is not about luck; it's a game of skill.
+			pok12=And thus, there's only one possible outcome.
+				pok13=You're way too confident, Mr. Blackwell.
+				pok14=You can't always win.
+			pok15=Time will tell, Madam.
+					pok16=Always the same topic.
+					pok17=Can't we just get along?
+					pok18=Let the best player win.
+		pok19=NO!
+		pok20=There's something fishy about him winning all the time.
+				pok21=You're right, dear.
+				pok22=But we're prepared...
+pok23=Huh...?
+pok24=Let's just play, okay?
+	pok25=Alright then, show me your hands.
+					pok26=Queen of spades.
+	pok27=Ten of hearts.
+				pok28=Jack of clubs.
+		pok29=Eight of spades.
+pok30=King of diamonds.
+	pok31=The new guy is winning...!
+					pok32=Mr. Blackwell needs an ace to win.
+		pok33=There's no way he can pull that off!
+			pok34=Oh, you fools...
+			pok35=Watch me!
+			
+			pok36=Uh...
+	pok37=What is that...?
+					pok38=MR. BLACKWELL!
+		pok39=I knew it!
+		pok40=He's cheating!
+			pok41=No, it's just that...
+				pok42=YOU WEASEL!
+			pok43=You don't understand...!
+			pok44=I'm so close...!
+			pok45=You don't have what it takes...!
+		pok46=SHUT UP!
+pok47=Calm down, please!
+				pok48=Dear, you know what to do.
+		pok49=Yes... let's do it.
+
+			pok50=No, what?
+			pok51=WAIT!
+			pok52=AAAAAAAAAAAAAAARGH!
+			
+th1=It's an old film projector.
+th2=It seems to be missing a film reel.
+
+	bt1=Oi, how are you doing, Sir?
+bt2=Not too shabby.
+bt3=Uh, who are you?
+	bt4=Oi, it's me Comfort.
+bt5=Comfort, ey?
+bt6=So what have you got for me?
+	bt7=Oh, this time I'm offering you a bottle of great scotch.
+	bt8=But don't knock it down like a cowboy!
+	bt9=Savor it.
+bt10=Uh, well I can appreciate a quality scotch.
+bt11=But the last time I had some, it didn't end too well.
+	bt12=Oi, but I have to offer you some comfort.
+	bt13=You couldn't find me from coffee anymore, so we needed something stronger.
+	bt14=In this case, whiskey.
+bt15=Yeah well...
+	bt16=Let's have some, it'll get you going again!
+bt17=.........
+	bt18=Oi, what's wrong?
+bt19=I don't feel like that would help now.
+	bt20=But I need to comfort you...!
+	bt21=Just have some.
+bt22=No thank you, I'm fine.
+	bt23=OI, just take a swig!
+bt24=Fuck this.
+
+bt25=That was messed up!
+bt26=Huh, what's that?
+
+ma1=What the hell is this machine?
+ma2=I wonder would this fit...?
+
+pl1=I'll just insert the plug and see what happens.
+
+cu1=Ah, this must be the work desk for cutting the film.
+cu2=I want to try it!
+
+cu3=It's a workstation for cutting the film.
+
+fr1=I'll pick it up because it'll probably be useful.
+fr2=Like all the stuff dropping from the wall.
+
+
+le1=Who would've thought...
+le2=The whiskey bottle bottom works as a lens.
+
+le3=There's no picture, something must be missing.
+
+mem1=What the hell is this thing?
+mem2=It's so mesmerizing...
+
+ext1=What the hell just happened?
+ext2=... I need to keep moving.
+
+	xc1=How do you feel?
+xc2=Confused...
+xc3=What's going on, Reason?
+	xc4=You're making progress.
+xc5=It sure as hell doesn't feel that way.
+	xc6=Yes, but you can only restore yourself little by little.
+	xc7=You need to wholly understand things.
+	xc8=Because simply knowing something doesn't mean you understand it fully.
+	xc9=And some things you can only grasp by finding yourself.
+	xc10=By finding Hope.
+xc11=I got it: find Hope and all my problems will be solved!
+	xc12=There's no need to be sarcastic.
+	xc13=Things are never that simple.
+	xc14=But you already knew that, didn't you?
+xc15=I'm sorry, I'm just struggling to grasp any this.
+	xc16=You don't need to, not now.
+	xc17=But carry on, and eventually you'll realize it all.
+xc18=Uh, thanks for the encouragement, Reason.
+	xc19=Stay strong.
+
+[auditorio]
+1=Hey?
+2=Who are you people?
+3=HEY!
+4=Can't you hear me?
+
+	5=This is unexpected, is it not?
+	6=How can I be of assistance?
+7=Who... who are you?
+	8=Oh...
+	9=You don't know?
+	10=And yet, it was you who found me.
+	11=Tell me, what were you looking for?
+	12=Who were you looking for?
+13=I'm looking for Hope.
+	14=Ah... yes.
+	15=Tell me, do I look like Hope to you?
+16=Okay come on, who are you!?
+	17=I am Agony.
+	18=I am the fire that burns you from within.
+	19=The fire that makes you hurt but also drives you.
+20=You... you don't know what you're talking about!
+	21=Oh?
+	22=HAHAHAHAHAHAHAHAHAHA!
+	23=I hold all the power over you!
+	24=You gave it to me.
+	25=We don't need to do this, not now.
+	26=Help yourself instead, go and find Hope.
+	27=Forget me.
+28=.........
+29=NO!
+30=I'm not leaving before I overcome you!
+	31=Maybe you've got a backbone after all.
+	32=You chose pain.
+	33=HAHAHAHAHAHAHAHAHAHA!
+[va]
+	da1=What do you think you're doing?
+	da2=She's coming for you...
+da3=Show yourself!
+
+	da4=I am the darkness, boy.
+	da5=FEAR ME!
+da6=Go away!
+
+	da7=Still afraid of whispers from the darkness?
+	da8=You're not worthy, fool!
+	da9=Nobody loves you.
+da10=Be gone, and leave me alone!
+
+	da11=Why do you even try?
+	da12=You deserve nothing.
+	da13=You won't last the night.
+	da14=Give up!
+
+s1=Oh shit... I know this place.
+s2=This is where Mrs. Goodwin passed away.
+
+d1=I think I can get into that room if I move the couch.
+
+n1=OUT OF ORDER
+n2=Someone needs to fix the machine in the reception room.
+
+v1=Let's see if the crank fits here.
+v2=A perfect match.
+
+v3=It was fun but I already turned the crank.
+
+v4=It's a machine of some kind.
+
+v5=There's something funny about those curtains.
+v6=Are those... numbers?
+
+v7=649... Got it!
+
+lo1=I'll need the combination.
+
+wc1=Well, that was original...
+wc2=... NOT!
+wc3=Okay, there's something here I could use.
+
+wc4=This crank will come useful.
+wc5=I'm sure of it.
+
+wc6=No more free stuff here.
+
+	r1=I see you've taken steps towards finding yourself again.
+	r2=Towards finding Hope.
+r3=What choice do I have?
+	r4=Everything is in your hands.
+	r5=You keep questioning the purpose behind your journey and existence.
+	r6=But every step you take fills you with silent light.
+r7=Can you please stop being so poetic and speak plainly so I understand?
+	r8=I'm merely pointing you in the right direction.
+	r9=See, I cannot tell you what is what - realization must come from within.
+	r10=Only you can do it and no one else.
+r11=Yeah, I think I understand.
+	r12=This place must wake some painful memories in you, am I right?
+r13=Yeah, Mrs. Goodwin...
+	r14=Good, you shouldn't confuse Agony with malice.
+	r15=He is a part of you and plays a role in all this.
+	r16=Give yourself a chance.
+	r17=Give Hope a chance.
+r18=I'll try. Thank you for encouragement, Reason.
+	r19=Thank you for listening to me.
+	
+ie1=He's long gone; you can tell by the smell.
+ie1_1=That was rather bizarre.
+
+ie2=E5, F#5... those are notes, I'm sure of it.
+ie2_1=No more notes but those markings must mean something.
+
+	i1=Oh, hi!
+i2=I put some medicine in your...
+	i3=Irrelevant! No need to explain yourself.
+i4=Oo-kay.
+i5=Who are you?
+	i6=Obviously, I am Inspiration.
+i7=Inspiration?
+i8=Uh, shouldn't you be, you know... more inspiring?
+	i9=Yeah, maybe I should.
+	i10=But you left me behind a long time ago.
+	i11=We used to work together when you were younger.
+	i12=Playing piano, painting, building stuff...
+i13=Those are some good memories.
+i14=I wonder why I stopped?
+	i15=All work and no play made you a dull boy!
+i16=Yeah, I suppose.
+	i17=You know, you could use me every now and then.
+i18=Okay, so what do you have for me?
+	i19=I did write a small tune.
+	i20=It's a bit generic since you never questioned my creation.
+	i21=Anyway, it should help you on your path.
+i22=Let's hear it, then.
+
+dr1=Look at me, looting drugs!
+dr2=Surely this syringe will come in use.
+
+pu1=Got it!
+pu2=That must be the right combination.
+
+e1=Mrs. Goodwin...?
+	e2=No... I'm Forgiveness.
+	e3=Mrs. Goodwin is the form you gave me.
+e4=But...
+e5=I'm sorry... about everything.
+	e6=She never blamed you for anything.
+e7=I know, but I do.
+e8=I do...
+	e9=I'm Forgiveness.
+	e10=Let me help you.
+e11=How...?
+	e12=Please, hear me out.
+	e13=There's a reason why you can't forgive yourself.
+	e14=It's all connected.
+	e15=Your past, your parents...
+	e16=How their business was taken away from them.
+	e17=Everything in life moulds you.
+e17_1=Yeah, and I did the same to Mrs. Goodwin.
+e17_2=I took away her home!
+	e18=You've put so much time and energy into regretting that decision.
+	e19=Just... why?
+	e19_1=Regret is all you seem to do.
+e20=I can't just let it go.
+e21=I don't think I ever can stop blaming myself.
+e22=It's like something is stopping me.
+	e23=Maybe there is Something more.
+	e24=Maybe you need to find that Something.
+	e25=And then, in the throes of your journey, maybe you'll be ready to forgive yourself.
+	e26=I'm not Reason, but I advise you to carry on.
+	e27=You're bound to find what you're looking for.
+	e28=Have faith, and you will restore yourself.
+[memory]
+say1=Wh... what was th... that sound?
+say2=Not that thing again.
+say3=I... I'm sc... scared.
+
+	say4=YES!
+	say5=Here I am!
+	say6=Come closer...
+say7=I don't like you, g... go away!
+
+	say8=What's that...?
+	say9=Are you about to cry?
+	say10=You're worthless!
+say11=Please, go away!
+
+	say12=Even your friends at the school are laughing at you!
+	say13=Oh, wait...
+	say14=You have no friends.
+	say15=HAHAHAHAHAHA!
+say16=............
+
+	say19=Your parents don't love you!
+	say20=They don't want you.
+	say21=They'll abandon you.
+say22=MOM!
+say23=DAD!
+
+d1=It's too dark in there.
+
+	m1=What's wrong, honey?
+	m2=Did you have a bad dream?
+m3=I... I... heard the whispers again.
+	m4=Oh, my little boy!
+	m5=There's nothing to be afraid of.
+	m6=It's only your imagination.
+m7=But there's someone in the room, Mom!
+m8=I'm scared!
+	m9=There's no one here, don't be afraid.
+	m10=Things just seem different when it's dark.
+	m11=But it's the same, safe room as it is in daylight.
+m12=.........
+	m13=You should head back to bed.
+	m14=You've got a big day tomorrow!
+m15=What day it is, Mom?
+	m16=Don't be silly!
+	m17=Tomorrow it's your birthday.
+m18=It's tomorrow!?
+m19=Wheeeeeeeeee!
+	m20=Shhh, Dad's sleeping, we should keep it down.
+m21=Sorry, Mom.
+	m22=Just head to the bed now, honey.
+m23=O... okay, Mom.
+	m24=Good night, honey.
+	
+o1=Mom, I want cake!
+	o2=Don't be silly, honey. 
+	o3=We'll cut the cake once your friends come by later today.
+o4=Are you sure they're coming?
+	o5=Yes, I'm sure.
+o6=O... o-kay then.
+		o7=But before that, you need to tidy your room.
+o8=Okay, dad, I will tidy up after breakfast.
+		o9=What are my old ears hearing?
+		o10=You promise?
+o11=I promise I'll tidy my room!
+	o12=That's great, honey.
+		o13=That's exactly how big boys like you behave.
+	o14=Oh, Dad?
+	o15=Did you have something for our boy?
+		o16=Yes, Mom.
+		o17=I believe I've something here behind my back...
+		o18=Happy birthday, son!
+	o19=Happy birthday, honey!
+o20=What's in the box?
+		o21=Go ahead and open it.
+o22=WHOA!
+o23=Constructor set #649!
+o24=This is the BEST present ever!
+o25=I love you, Mom and Dad.
+
+ty1=It's time to go, Mr. Armstrong.
+ty2=See you soon, buddy!
+
+ty3=Your turn, Mr. Snoutty!
+
+ty4=.........
+ty5=What's that, Mr. Snoutty?
+ty6=You don't want to go there?
+ty7=.........
+ty8=Huh, you're right.
+ty9=I'll hide you so you can stay with me.
+ty10=But you must be quiet!
+ty11=Mom won't find you here.
+ty12=Shhhhh!
+
+ty13=Don't worry Mr. Snoutty, I won't put you in there.
+
+ty14=This play tent would make a great hide-out for Mr. Snoutty.
+
+	pa1=Did you pack your toys yet, honey?
+pa2=Uh... I'm doing it now, mom!
+pa2_1=I'm ready, mom!
+
+pa4=I don't want to move.
+pa5=But dad says business isn't good during the recession.
+pa6=Whatever that means.
+
+pa7=I'm almost ready.
+pa8=All packed!
+
+af1=I didn't understand when I was a kid.
+af2=My parents' business struggled so we had to move out.
+af3=.........
+af4=I wonder what happened to Mr. Snoutty?
+
+[forest]
+s1=Okay, that looks correct.
+s2=It's missing a piece, though.
+s2_1=I need to find the missing piece.
+s3=I guess that's where I'm headed next.
+
+d1=And somehow that unlocked the door!
+d2=Gotta love the logic.
+
+l1=It's a lamp stand.
+l2=One that's missing a bulb.
+
+so1=Huh, there's a hole in the wall behind the couch.
+so2=I couldn't see it before.
+
+lu1=There, it's not locked anymore.
+
+mem1=Huh, another one of these... things.
+mem2=It's so hypnotic...
+
+mmm1=Huh, one of these things again.
+mmm2=I feel dizzy...
+
+mem3=I remember my birthday...
+mem4=How I miss my parents.
+mem5=That birthday present though, it must mean something.
+
+mmm3=I used to have nightmares when I was a kid...
+mmm4=My parents were always there for me.
+
+sa1=I need the combination.
+
+sa2=Mmm... Constructor set #649.
+sa3=Could it be that simple...?
+
+sa4=Huh, what's this?
+sa5=A rusty old piece.
+sa6=Surely it has a place.
+
+sa7=Huh, someone put a ribbon on the safe.
+sa8=I need to figure out the combination.
+
+m11=What the hell was that all about?
+
+c1=Huh, this reminds me of my parents' coffee shop.
+c2=Before they went bankrupt...
+c3=Speaking of coffee, I could use some.
+	c4=Ground coffee brewed from the best of our beans.
+	c5=Please, enjoy, Sir.
+c6=Thank you very much, Sir.
+
+fu1=Collecting fuses is a hobby of mine!
+
+	g1=Hey!
+	g2=Where are you going?
+g3=Go away, Greed.
+	g4=Now you're just saying things that you don't even mean.
+	g5=Take me with you again.
+	g6=I'll show you the way.
+g7=.........
+	g8=Tempting, is it not?
+	g9=Forget Reason, that old fool.
+	g10=He's all bark and no bite, always talking and never doing.
+	g11=You think he can help you?
+g12=I think...
+g13=I...
+g14=I don't know.
+	g15=See?
+	g16=Take a look and see where being humble has taken you.
+	g17=Take my hand, and we will bow to no one!
+g18=But you also played a role in my downfall.
+g19=I don't want to walk that path once again.
+	g20=You fool...
+	g21=You're weak.
+	g22=You think you can resist me?
+	g23=HAHAHAHAHA!
+g24=.........
+	g25=I'm your addiction.
+	g26=No matter what, I will always be there.
+g27=Yes, you're my addiction.
+g28=But I made a mistake and confused you with Ambition.
+g29=I won't let you out.
+	g30=We will see about that...
+	
+g31=Greed...
+g32=Will he ever leave me be?
+	
+cl1=It's an old clock that's missing pendulum.
+
+soh1=Huh, it's the play tent from my childhood.
+
+soh2=Whoa!
+soh3=Is that really you, Mr. Snoutty?
+
+al1=I'll just put you here, buddy.
+al2=It looks like an altar that's missing something.
+
+me1=This place seems familiar.
+me2=It reminds me of my childhood home.
+
+e1=Ah, finally a moment of peace.
+e2=And coffee, how I've missed you!
+
+	e3=Are you ready to confront me now?
+	e4=After all these years...
+e5=Uh, w-who are you?
+	e6=I am Loss.
+e7=Loss...?
+	e8=Yes, I'm here to help you.
+	e9=Please, don't let my appearance scare you.
+	e10=My intentions are pure.
+e11=But... Why Loss?
+	e12=I am the creation of Agony.
+	e13=He may seem malicious...
+	e14=But he created me to reach you.
+e15=I don't understand.
+e16=Why are you here...?
+	e17=I already told you - I'm here so you can confront me at last.
+	e18=I'm the loss you felt all those years ago.
+e19=.........
+e20=My... parents...?
+	e21=Yes, you were so young.
+	e22=Young and too proud.
+	e23=You ignored me.
+	e24=And that action created Something else...
+e25=Huh...
+e26=I do miss my parents more than anything.
+e27=But it was easier for me not to think about it.
+e28=Why would I torture myself with the memory?
+e29=It would never bring them back...
+	e30=You're not wrong: they're gone, but their memory is not.
+	e31=You need to treasure it.
+	e32=Do not avoid the thought of your parents.
+	e33=And that is why I was sent here.
+	e34=You need to go through me and deal with what was once forgotten.
+	e35=It's the only way.
+e36=Okay, okay...
+e37=How do I do that?
+	e38=You search yourself.
+	e39=You wake Hope.
+	e40=You'll know when the time is right.
+e41=Uh, thanks.
+
+fz1=I need to find a fuse.
+fz2=Okay, I got the fuse.
+
+ada1=Huh, what's this...?
+ada2=This will be useful.
+
+ui1=This house reminds me of my childhood home.
+ui2=All those valuable memories...
+ui3=But they're a thing of past so what's the point anymore?
+	ui4=Oi!
+	ui5=Try to think positive.
+	ui6=Maybe you could forge new, happy memories?
+	
+wu1=Uh, okay...
+wu2=Where am I now?
+
+pen1=A pendulum...?
+pen2=I think I know where to put this.
+[doh2]
+s1=Hello...?
+	s2=Hi, honey.
+	s3=Did you get any fish yet?
+s4=Yes, I did.
+	s5=Wonderful!
+	s6=In that case, I'll start preparing some potatoes.
+s7=Uh, okay.
+	s8=It's such lovely weather.
+	s9=But it's getting dark, so please come home soon.
+	s10=You have fun now, honey!
+s11=Uh-huh, thank you.
+
+s12=It was that girl again.
+s13=I don't recognize her voice.
+s14=Well, I might as well do a bit more fishing.
+
+o1=Okay, where am I now?
+o2=.........
+o3=Hey, aren't you Mr. Tailor's dog?
+o4=Who's a good girl?
+
+o5=What's that, girl?
+o6=Oh, you want me to fish?
+o7=Well, there's seems to be a fishing rod onboard.
+
+o8=Hey, I got a fish!
+o9_1=You know, my father used to take me fishing.
+o9_2=Happy childhood memories.
+o9=Okay, let's get a little farther.
+o10=Let me know once you see more fish, girl.
+
+o11=Good spot again, huh?
+
+	s15=Honey, are you coming home soon?
+	s16=It's getting dark...
+	s17=You know I always get nervous if you're on the lake after dark.
+s18=Okay, I'm heading back now.
+s19=I've caught plenty of fish!
+	s20=Okay honey, see you soon!
+
+s21=Alright, let's head back home, girl.
+
+t1=You know, I'm not sure what this place is...
+t2=I don't understand how I got here.
+t3=Or how you got here.
+t4=But... I'm glad you're with me.
+t5=Still...
+t6=This whole journey...
+t7=Is this some kind of limbo?
+t8=Moments like this makes me think.
+t9=Did I make a horrible mistake...?
+
+d1=We shouldn't go any further, it'll be dark soon.
+[clifford]
+	s1=Tell me, why are you here?
+s2=Self-loathing.
+s3=I don't think I'm a bad person.
+s4=But I've hurt so many people for my own selfish gain.
+	s5=Tell me about it.
+s6=Well... I've done everything by the book.
+s7=I mean, I've done nothing illegal - just my job.
+s8=But it involved dealing with people who were in desperate need of help.
+s9=And yet I took away the last of their hope.
+s10=Even though it's alright according to the law.
+	s11=Yes, I'm aware of the nature of your work.
+	s12=I see a conflict between you and your work-self.
+	s13=You must see it yourself?
+s14=Yeah, I do.
+	s15=So...
+	s16=Do you think you're doing anything to contribute to this problem?
+s17=I tried...
+s18=But, I'm afraid I've crossed the point of no return.
+s19=See, I went to resign, to change the course of my future.
+s20=But at that very day, I got to sign on as a partner with this company.
+s21=My backbone snapped like a dry stick, and so I kept going.
+	s22=Interesting...
+	s23=You were aware of the conflict, but you decided to ignore it.
+	s24=Sure... you got the partnership, but there's more to it.
+	
+	s25=Ah, our time seems to be up, Mr. Price.
+	s26=I'd like to talk about your childhood the next time we meet.
+	s27=I'm sure we can find some answers from there.
+
+	e1=Last time you told me about your work, and how it got the better of you.
+	e2=You had the chance to resign, but you did not.
+	e3=You kept working, even when it was burning you slowly from the inside.
+	e4=Today we're trying to delve deeper.
+	e5=We will find reasons behind your decisions.
+e6=If you say so.
+	e7=Tell me, does it feel like you're in control?
+e8=Uh... yeah.
+e9=I believe so.
+e10=I mean, I struggle to stand behind my voice.
+	e11=Yes, I thought as much.
+	e12=I suppose you also feel insecure?
+e13=Yeah... I don't feel like I've much left to give.
+	e14=What do you think? Why is your self-esteem so low?
+e15=I wish I knew the answer.
+	e16=Tell me about your childhood.
+e17=What would you like to hear?
+	e18=Just an overview - how was it?
+e19=............
+	e20=I'm aware of the tragedy you had to face.
+e21=Yeah... I do miss my parents.
+e22=............
+e23=I had a happy childhood, but it ended way too soon.
+	e24=I'm sorry to hear that.
+	e25=Let's revisit that a little later.
+	e26=Could you tell me more about your parents?
+e27=They were the best - kind and understanding.
+e28=They owned most idyllic coffee shop.
+e29=I suppose that explains why I love coffee so much.
+e30=Anyway, during the recession their business started to struggle.
+e31=It got to the point where we had to sell our house.
+	e32=Do you think these events have partially caused your urge for success?
+e33=............
+	e34=Ah, our time seems to be up, Mr. Price.
+	e35=I'd like to hear more about your childhood during our next session.
+	
+	
+	a1=Would you tell me, what happened after your parents' passing?
+a2=They placed me in an orphanage, where I then grew up.
+a3=It was okay, I suppose.
+a4=I made good friends there with a boy called Charlie.
+a5=Although I haven't seen him in ages.
+	a6=Tell me more about it.
+a7=Well... we were very close.
+a8=But then when I reached adulthood, I moved to another city.
+a9=To pursue a career from McDade, Bruton & Moore.
+a10=I do regret not keeping in touch with Charlie.
+a11=I regret it all.
+	a12=It sounds like you're too harsh on yourself.
+	a13=Maybe you shouldn't dwell on the past?
+	a14=But now... I'd like to hear more about the death of your parents.
+	a15=Such tradegy is bound to leave a mark.
+a16=Nah... it's fine, doc!
+a17=I try not to think about it, it's easier that way.
+	a18=Tell me, how did that make you feel?
+a19=I felt sad, but I was able to shut it away.
+a20=I got over it surpisingly fast.
+	a21=We all react differently to such loss.
+	a22=But could it be possible you never really processed their passing?
+	a23=Tell me, did you ever take time to yourself, just to mourn?
+a24=............
+a25=No, not really...
+a26=But like I said, it's okay, I didn't need to.
+	a27=Mr. Price, I believe you could be suffering from trauma.
+	a28=It sounds like you're still in denial.
+	a29=Instead of processing your loss, you shut it away.
+	a30=Maybe in the silence, it's trauma moulding your every decision?
+a31=I don't believe that's the case, doc.
+a32=I mean, I do appreciate your help.
+	a33=............
+	a34=Ah, our time seems to be up.
+	a35=Please, don't shy away from my words.
+	a36=Give it some thought, and who knows what you might find.
+[doh3]
+	s1=Hey, you okay?
+	s2=You look distracted.
+s3=Whoa...
+s4=Is that you, Charlie?
+	s5=Eh.
+	s6=How funny.
+s7=What are you doing here?
+	s8=You invited me, man!
+	s9=We need to get you some beer.
+	s10=It'll do you good, trust me.
+s11=Uh, show me the way.
+
+	s12=Cheers to old friends!
+s13=Cheers!
+
+s14=So, it's been... what... seven years?
+	s15=Nine years.
+s16=Whoa, that long already?
+	s17=Yeah, tell me about it.
+s18=What've you been up to?
+	s19=That, my friend, is a long and boring story!
+	s20=The usual kind of boring, you know.
+	s21=I settled down, got married.
+	s22=I'm also going to be a dad in a few months time.
+s23=Whoa, congrats!
+s24=I'm very happy for you, and you deserve everything.
+	s25=Thanks!
+	s26=And how about you?
+	s27=For some reason we didn't keep in touch after you moved for work.
+	s28=Speaking of, did you get the job?
+s29=Unfortunately, yes.
+	s30=Huh...?
+s31=It's a long story...
+	s32=I'd like to hear it.
+s33=I need a beer first, you with me?
+	s34=Down the hatch!
+	
+	s35_1=That was quite a story.
+	s35=I'm sorry to hear about how things went for you.
+s36=Don't be. I made my own choices, my own mistakes.
+	s37=But still...
+	s38=You're a good person.
+s39=Thanks, Charlie.
+	s40=Oh yeah - I forgot something, I'll be back in a minute.
+	
+		l1=Come find me.
+		
+x1=Hi Reason.
+	x2=Someone's feeling cheerful.
+x3=Heh, yeah...
+	x4=So, how do you like all this?
+	x5=Surrounded by friends.
+	x6=In the warmth of the night.
+x7=I feel welcome and safe here.
+x8=Even hopeful.
+	x9=You've come so far.
+	x10=All the things you've gone through...
+	x11=They're like fuel for Hope.
+	x12=You're close to releasing the light inside of you.
+x13=Sorry, I don't mean to be rude, but I just want to relax now.
+x14=For now, I need to forget about everything.
+	x15=No offense taken.
+	x16=In fact, I encourage you to recharge with all this warmth.
+x17=Thanks, Reason.
+
+	c1=There you are.
+	c2=I, uh, wrote you a letter.
+	c3=It's important.
+c4=Thanks, can I read it?
+	c5=Not yet...
+	c6=You need to wait for the right moment.
+c7=Uh, mysterious!
+	c8=Ah, I know how it sounds, but promise me you won't open it yet?
+c9=I promise.
+	c10=Thanks, you'll know when the time is right.
+c11=Okay then.
+
+dg1=Who's a good girl?!
+[epilogue]
+s1=............
+s2=I must be close now.
+s3=I want to see this through.
+s4=To make sense to all of this.
+
+	t1=Do you really want to do this?
+	t2=You'll never vanquish me!
+
+	t3=Prepare yourself!
+	t4=I'll be there!
+
+	g1=BOO!
+	g2=Sorry, I didn't mean to scare you!
+g3=Ah perfect, it's you again...
+	g4=Mm?
+	g5=How rude!
+	g6=I'm here to help you out of this shit-hole.
+g7=Huh?
+	g8=You heard right!
+g9=And how would you do that?
+	g10=Do not underestimate me.
+	g11=There is but one condition.
+	g12=You shall never abandon me.
+	g13=And that's it!
+	g14=If you would just sign the agreement?
+
+g15=Uh...
+g16=I shouldn't.
+	g17=Don't be an idiot!
+	g18=I'm offering you a way out from this torment.
+	g19=What's there even to think about?
+g20=I suppose you have a point there.
+g21=Just that...
+	g22=Enough, sign!
+
+		g23=ENOUGH!
+	g24=Aaaaargh!
+	g25=Not you again!
+		g26=SILENCE!
+		g27=Don't sign it, just think.
+		g28=The journey...
+		g29=Agony, Loss, Forgiveness, Love...
+		g30=You are healing.
+	g31=Here he is!
+	g32=Reason and his poetic wisdom.
+	g33=HAHAHAHAHA.
+		g34=Listen to me.
+		g35=You do not need him.
+		g36=Not anymore.
+g37=But he's offering a way out.
+		g38=Not a way in which you want to go.
+		g39=Trust me this last time.
+g40=............
+
+	g41=WHAT DID YOU DO?
+	g42=NOOOOOOOOOOOOOO!
+
+			g45=I'm free at last!
+g46=Wha... what's happening?
+		g47=You chose.
+			g48=Thank you!
+		g49=Welcome, Ambition.
+g50=Ambition...?
+			g51=There's a fine line between Greed and me.
+		g52=You made the right choice.
+g53=But... without Reason, I would've signed.
+		g54=Don't forget that we're all connected.
+		g55=You will need Ambition once you're out.
+g56=Out...?
+		g57=Was that a little smile on your face?
+		g58=Keep your spirits high.
+		g59=There is still Something locked away, deep inside.
+			g60=You will need your all to conquer it.
+			g61=Stay strong, you're almost there!
+			
+mn1=Mom, Dad...
+	mn2=Hey, son.
+		mn3=How are you, honey?
+mn4=I, uh... feel more energized.
+mn5=I mean, I must be close now.
+		mn6=That's great, honey!
+	mn7=Keep going, son.
+mn8=What are you guys doing here?
+mn9=Are you... okay?
+	mn10=Don't worry about us, son.
+		mn11=Your dad is right, you need to focus.
+	mn12=Listen...
+	mn13=This time we were sent by Loss.
+mn14=Huh...
+		mn15=You don't want to hear it...
+	mn16=... but you simply must.
+mn17=Okay... what does he have to say?
+	mn18=Loss brings a painful memory.
+		mn19=A memory you've locked away.
+mn20=Uh...
+		mn21=I'm so sorry, honey.
+		mn22=But you have to face it.
+	mn23=You're strong. You will overcome this.
+mn24=I love you both.
+mn25=What do I have to do?
+	mn26=Close your eyes and focus.
+		mn27=Think of us.
+			
+po1=My parents have said I shouldn't open doors to strangers.
+po2=I'll just be quiet.
+
+	po3=Hey kid, don't be scared!
+	po4=My name is John, I'm from the police.
+	po5=Would you open the door, please?
+	
+	po5_1=Hey...
+	po6=What's your name, kiddo?
+po7=............
+	po8=I, uh...
+	po9=Something happened...
+	po10=I'm terribly sorry...
+	po11=But...
+	po12=............
+	po13=There was a car accident.
+po14=Where's Mom and Dad...?
+	po15=I'm very sorry...
+	po16=They're both in a better place now.
+po17=............
+	po18=Hey... don't worry.
+	po19=You might not want to hear it, but it's going to be okay.
+	po20=Someone will take good care of you.
+	po21=............
+	po22=Oh, and before I forget.
+	po23=I was able to retrieve this from the car...
+	po24=I believe this belongs to you...?
+	
+e1=Bo-bo-bo-boring.
+e2=All my toys are in the new home already.
+e3=And I'm hungry!
+
+e4=There's no food in the oven.
+e5=Also, don't we have a fridge?
+e6=Dad said they'll bring some pizza.
+e7=I want pizza, now!
+
+e8=There's nothing there anymore.
+e9=All the stuff is here in the kitchen.
+e10=The new home is so much smaller.
+e11=Oh well...!
+
+e12=I don't know how to tell the time yet.
+e13=But shouldn't Mom and Dad be back already?
+e14=I'm going to eat at least TEN pizzas.
+e15=Dad says I eat more than a horse.
+
+x1=What is this...?
+x2=Wh... what are you?
+
+x3=Reason, what the hell is that thing?
+	x4=It's the source of everything in you.
+x5=Please, stop...
+x6=Speak plainly so I can understand!
+	x7=You must finally face it.
+	x8=The dark place inside you that's holding you prisoner.
+	x9=Insecurity...
+	x10=Unworthiness...
+	x11=The source of it all.
+	x12=And here you are...
+	x13=Ready to do so.
+x14=I don't...
+	x15=Listen to me now, for I am the Reason.
+	x16=Tell me, what is that thing?
+x17=It's...
+x18=.........
+	x19=Look closer.
+
+x20=It is...
+x21=... Trauma?
+	x22=Yes...
+	x23=The source of all things in you.
+	x24=But now, after all these years you have the chance to overcome it.
+x25=.........
+x26=I...
+x27=... can't.
+x28=It's too powerful...
+
+x29=And what's even the point...?
+x30=You're on the brink of restoring yourself.
+
+x31=But how could I ever overcome my loss...?
+x32=By accepting and dealing with me.
+
+x33=But with my job... how can I go on?
+x34=You found me, and together we'll rise.
+
+x35=What do I have left to fight for?
+x36=I am somewhere out there. Find me.
+
+x37=I feel... empty. How can I become motivated again?
+x38=Challenge my creation.
+
+x39=How can I ever forgive myself?
+x40=Through me.
+
+x41=How can I live with this misery?
+x42=I exist for a reason. Accept me.
+
+x43=How can I live with my fears?
+x44=My only aim is to keep you out of harm's way.
+
+x45=But what if things go sour again?
+x46=I'll be there to comfort you.
+
+x47=Okay, okay...!
+	x48=You see now?
+	x49=You're almost there, but you're missing something.
+	x50=Think!
+
+x51=The letter!
+x52=The letter Charlie gave me.
+x53=That has to be be it.
+
+		le1=I knew you'd get this far.
+		le2=You've always been determined.
+		le3=But at the same time your insecurity negated your determination.
+		le4=Leaving you exposed.
+		le5=I've been trying to reach you.
+		le6=... Waiting for the right moment.
+		le7=You're standing on the precipice.
+		le8=Ready to take that leap of faith.
+		le9=Please, let me help you.
+		le10=Courage.
+
+x54_1=Of course...
+x54_2=Courage.
+x54=I have all I need.
+
+l1=Hey... mom and dad.
+l2=I understand it now.
+l3=I shouldn't have suppressed my Agony.
+l4=I didn't face my Loss...
+l5=.........
+l6=I made some horrible choices in my life.
+l7=I never understood why...
+l8=But I do now.
+l9=I think... I'm ready to restore Hope.
+l10=I've been searching high and low...
+l11=But I can't seem to find what I'm looking for.
+l12=And yet, all of this must hold a purpose.
+l13=I've been lead here by Reason.
+l14=If you are there...
+l15=Please, somehow...
+l16=Help me.
+
+	l17=Son...
+l18=Mom, Dad...?
+	l19=It is time...
+l20=What do you mean?
+l21=I don't understand.
+	l22=Your light...
+	l23=Let it shine from within...
+
+		l24=Welcome back.
+		l25=For you've been missed...
+		l26=... Hope.
+l27=Wh-what!?
+		l28=We are all connected.
+		l29=We are now complete.
+l30=I, uh...
+		l31=Can you see it now?
+		l32=We're a thought.
+		l33=We're his last hope.
+		l34=A journey in the blink of an eye...
+		l35=Please, hurry.
+		l36=No one else can stop him but you.
+		l37=It all depends on you.
+l38=What do I need to do?
+		l39=You know what to do.
+
+n1=No.
+
+n2=I'm here.
+n3=There's so much to see...
+n4=Don't do it.
+
+uz1=I couldn't do it...
+uz2=Something...
+uz3=Something changed.
+uz4=.........
+
+uz5=Ah shit, someone must have heard the shotgun.
+
+	uz6=He-hey!
+	uz7=Is everything alright!?
+uz8=Huh... that voice sounds familiar.
+uz9=Everything is okay...!
+	uz10=.........
+	uz11=I'm coming in just to make sure, okay!?
+uz12=Uh, okay.
+
+	uz13=Oh my...
+	uz14=What did you...?
+uz15=I...
+uz16=I... was going to...
+uz17=But something...
+	uz18=Hey...
+	uz19=Calm down, please.
+	uz20=It's okay.
+	uz21=My name is Jen.
+	uz22=I just moved here a couple of days ago.
+uz23=Uh... my name is Casey.
+	uz24=Nice to meet you, Casey.
+uz25=Uh, you too, Jen.
+uz26=And thanks for checking on me.
+uz27=I'm sorry, I'm such a mess...
+	uz28=Don't worry about it.
+	uz29=Do you want to talk about it?
+uz30=Uh...
+	uz31=There's a good cafe nearby...
+	uz32=That is if you like coffee...?
+uz33=I love coffee.
+	uz34=Alright then, let's go.
+[credits]
+1=A game by Jesse Makkonen
+
+2=Hey guys!
+
+3=Thank you very much for playing DISTRAINT 2.
+4=It was crazy amount of work to create this little game, here's hoping you liked it!
+
+5=Oh, please consider dropping a review where ever you got the game from.
+6=I'd appreciate that! :)
+
+7=I'd like to thank my family and friends for their support.
+8=Also thanks to all the people that have been active on social media, encouraging me and keeping me going. I can really appreciate their effort!
+
+9=You can find me and my games:
+10=Homepage: www.jessemakkonen.com
+11=Twitter: @jesse_makkonen
+12=Facebook: @jessemakkonengames
+
+13=English edited and proof-read by Jen Hewitt, UK (Kystra)
+14=Find me on Steam at id/keekiwausoda
+15=
+16=
+17=
+18=
